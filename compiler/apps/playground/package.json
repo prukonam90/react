@@ -27,7 +27,7 @@
     "@babel/types": "7.18.9",
     "@heroicons/react": "^1.0.6",
     "@monaco-editor/react": "^4.4.6",
-    "@playwright/test": "^1.42.1",
+    "@playwright/test": "^1.50.0",
     "@use-gesture/react": "^10.2.22",
     "hermes-eslint": "^0.25.0",
     "hermes-parser": "^0.25.0",
