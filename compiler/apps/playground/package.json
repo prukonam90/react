@@ -40,7 +40,7 @@
     "pretty-format": "^29.3.1",
     "re-resizable": "^6.9.16",
     "react": "19.0.0-rc-77b637d6-20241016",
-    "react-dom": "19.0.0-rc-77b637d6-20241016"
+    "react-dom": "19.0.0"
   },
   "devDependencies": {
     "@types/node": "18.11.9",
